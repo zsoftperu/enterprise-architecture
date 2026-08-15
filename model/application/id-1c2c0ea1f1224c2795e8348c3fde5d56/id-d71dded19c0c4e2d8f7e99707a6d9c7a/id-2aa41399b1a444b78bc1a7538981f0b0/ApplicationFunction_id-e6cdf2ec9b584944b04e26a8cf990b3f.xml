@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consultar el estado de autenticación"
+    id="id-e6cdf2ec9b584944b04e26a8cf990b3f"
+    documentation="Consultar el estado de autenticación&#xD;&#xA;Invoca el endpoint: POST /service/ciba/token del API Biometric Authentication de RENIEC"/>

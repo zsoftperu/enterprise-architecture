@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="sync"
+    id="id-c897aa07bf0f4f58a8cd0b4787c99799">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-550f5adcf82743d7b05de2e9aceac9ec.xml#id-550f5adcf82743d7b05de2e9aceac9ec"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-1ebdd56637bf4e2c8691e53cd7fb9546.xml#id-1ebdd56637bf4e2c8691e53cd7fb9546"/>
+</archimate:TriggeringRelationship>

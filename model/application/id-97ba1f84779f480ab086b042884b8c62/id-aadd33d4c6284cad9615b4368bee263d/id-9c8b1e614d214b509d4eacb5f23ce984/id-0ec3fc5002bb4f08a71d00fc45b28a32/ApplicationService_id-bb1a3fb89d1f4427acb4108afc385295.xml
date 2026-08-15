@@ -1,0 +1,4 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GET /sites/{siteId}/items"
+    id="id-bb1a3fb89d1f4427acb4108afc385295"/>

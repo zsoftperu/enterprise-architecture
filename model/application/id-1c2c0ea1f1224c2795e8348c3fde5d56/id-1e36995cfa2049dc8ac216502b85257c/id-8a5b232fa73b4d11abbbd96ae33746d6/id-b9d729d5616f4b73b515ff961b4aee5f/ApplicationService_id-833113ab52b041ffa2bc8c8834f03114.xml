@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[POST] /score"
+    id="id-833113ab52b041ffa2bc8c8834f03114"
+    documentation="Obtiene el score crediticio"/>

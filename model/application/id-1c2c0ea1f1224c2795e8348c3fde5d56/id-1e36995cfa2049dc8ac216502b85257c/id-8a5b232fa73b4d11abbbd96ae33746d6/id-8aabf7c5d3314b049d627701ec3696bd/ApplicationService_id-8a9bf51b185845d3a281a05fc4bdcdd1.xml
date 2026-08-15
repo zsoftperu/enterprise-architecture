@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[POST] /biometricAuthentication /eligibilityCheck"
+    id="id-8a9bf51b185845d3a281a05fc4bdcdd1"
+    documentation="[POST] /biometricAuthentication /eligibilityCheck : Elegibilidad del cliente para biometría."/>

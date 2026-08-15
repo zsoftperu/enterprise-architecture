@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="validateStock"
+    id="id-b552a4e0010743a39f734bb267be5fe2"
+    documentation="Esta operación invoca a:&#xD;&#xA;ValidateDeviceInShop"/>

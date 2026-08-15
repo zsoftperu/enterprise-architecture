@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[POST] /saleslead"
+    id="id-e8c51f4a4a134797b7a4ed80a2b1b982"
+    documentation="Registra los datos de un Sale en la BBDD de la Web Convergente."/>

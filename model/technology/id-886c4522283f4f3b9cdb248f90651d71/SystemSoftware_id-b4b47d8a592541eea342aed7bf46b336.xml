@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Openshift Integration"
+    id="id-b4b47d8a592541eea342aed7bf46b336"
+    documentation="Plataforma Onpremise dónde se despliegan los siguientes microservicios:&#xD;&#xA;ms-biometric-authentication-management "/>

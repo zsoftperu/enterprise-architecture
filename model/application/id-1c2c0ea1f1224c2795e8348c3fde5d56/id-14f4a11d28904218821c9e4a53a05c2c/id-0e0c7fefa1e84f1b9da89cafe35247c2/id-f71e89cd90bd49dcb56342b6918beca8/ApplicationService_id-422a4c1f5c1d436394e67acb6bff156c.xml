@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="POST /service/ciba/token"
+    id="id-422a4c1f5c1d436394e67acb6bff156c"
+    documentation="Consultar el estado de la autenticación biométrica"/>

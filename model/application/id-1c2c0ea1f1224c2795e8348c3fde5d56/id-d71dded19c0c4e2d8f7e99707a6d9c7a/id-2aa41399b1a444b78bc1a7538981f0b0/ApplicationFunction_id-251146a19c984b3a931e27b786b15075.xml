@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Obtener llaves públicas para validación de token"
+    id="id-251146a19c984b3a931e27b786b15075"
+    documentation="Obtener llaves públicas para validación de token&#xD;&#xA;Invoca el endpoint GET /service/jwks del API Biometric Authentication de RENIEC"/>

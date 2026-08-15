@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[POST] /customers"
+    id="id-56f0fbb590774fb28f14c3fcf1ce1714"
+    documentation="Actualiza el estado de cliente y genera la cuenta en Amdocs"/>

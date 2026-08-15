@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="reserveStock"
+    id="id-474804c90f6d4296b8f41126e61ff05a"
+    documentation="Esta operación invoca a:&#xD;&#xA;ReserveDevice"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mover Inventario - 62023"
+    id="id-dc8e50d5806d4c03bd5e687a6323a8aa"
+    documentation="Este servicio invoca el siguiente endpoint de SAP:&#xD;&#xA;ConsultaDispMaterial.&#xD;&#xA;&#xD;&#xA;El servicio 62023 — moverInventario realiza el movimiento físico de inventario en SAP para recursos (equipos y materiales) asociados a órdenes de venta. Es una operación de escritura que actualiza el estado del inventario en el sistema SAP Tienda."/>

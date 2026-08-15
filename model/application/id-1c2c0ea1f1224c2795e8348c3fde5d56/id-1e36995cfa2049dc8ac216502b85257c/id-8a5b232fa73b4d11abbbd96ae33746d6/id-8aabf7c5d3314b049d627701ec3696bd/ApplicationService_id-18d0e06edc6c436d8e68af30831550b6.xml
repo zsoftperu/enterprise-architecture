@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[GET] /biometricAuthentication/{clientTransactionId}/status"
+    id="id-18d0e06edc6c436d8e68af30831550b6"
+    documentation="[GET] /biometricAuthentication/{clientTransactionId}/status: Consulta el estado de una transacción."/>

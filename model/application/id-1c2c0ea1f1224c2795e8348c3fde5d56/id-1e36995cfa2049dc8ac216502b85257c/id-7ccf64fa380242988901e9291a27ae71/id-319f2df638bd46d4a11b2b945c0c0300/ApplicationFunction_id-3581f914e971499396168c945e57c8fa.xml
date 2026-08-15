@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateSaleslead"
+    id="id-3581f914e971499396168c945e57c8fa"
+    documentation="Actualiza los datos de un Sale en la BBDD de la Web Convergente"/>

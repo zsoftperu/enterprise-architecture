@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="validateIdentity"
+    id="id-862eca0dbee847ec9ec4c87dfe6842b6"
+    documentation="Obtiene datos de una persona en CRM (searchCustomer)"/>

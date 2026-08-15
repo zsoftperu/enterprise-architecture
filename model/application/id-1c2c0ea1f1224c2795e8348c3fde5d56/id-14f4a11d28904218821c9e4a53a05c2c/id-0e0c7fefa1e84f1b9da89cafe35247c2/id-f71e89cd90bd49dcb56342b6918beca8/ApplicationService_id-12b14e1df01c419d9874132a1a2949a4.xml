@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GET /service/bc-authorize"
+    id="id-12b14e1df01c419d9874132a1a2949a4"
+    documentation="Iniciar la transacción de autenticación biométrica"/>

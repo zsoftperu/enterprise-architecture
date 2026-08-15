@@ -1,0 +1,4 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DELETE /reservations/{id}"
+    id="id-0dc7e21302024679849d7c77fd9addcb"/>

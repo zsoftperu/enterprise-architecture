@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consultar el estado de la autenticación y retornar token"
+    id="id-fd3cd4bba20d4c4aa01d875d2f98dae7"
+    documentation="Consultar el estado de la autenticación y retornar token.&#xD;&#xA;Esta conformada por 2 operaciones:&#xD;&#xA;Consultar el estado de autenticación&#xD;&#xA;Obtener llaves públicas para validación de token"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validate DeviceInShop"
+    id="id-4a9b9a94e2e44aa288581976dbbb6517"
+    documentation="Este servicio invoca el siguiente endpoint de SAP:&#xD;&#xA;validarMaterial.&#xD;&#xA;&#xD;&#xA;El servicio ValidateDeviceInShop permite validar si uno o más dispositivos (equipos/materiales) están disponibles y son válidos para ser entregados en una tienda específica como parte de una orden de venta.&#xD;&#xA;&#xD;&#xA;El flujo principal realiza:&#xD;&#xA;&#xD;&#xA;Obtención de equivalencias de lote — Traduce los últimos 2 caracteres del externalID de cada producto a su batchTypeWarehouse (tipo de lote en bodega SAP).&#xD;&#xA;Obtención de la bodega principal — Determina la bodega SAP (plantCode y warehouseId) asociada a la tienda.&#xD;&#xA;Validación de materiales en SAP — Invoca al servicio validarMaterial en SAP para verificar que los materiales/seriales existen y son válidos en la bodega de la tienda.&#xD;&#xA;La respuesta incluye el estado de validación de cada producto (si fue validado exitosamente o no) junto con un código de estado general de la operación."/>

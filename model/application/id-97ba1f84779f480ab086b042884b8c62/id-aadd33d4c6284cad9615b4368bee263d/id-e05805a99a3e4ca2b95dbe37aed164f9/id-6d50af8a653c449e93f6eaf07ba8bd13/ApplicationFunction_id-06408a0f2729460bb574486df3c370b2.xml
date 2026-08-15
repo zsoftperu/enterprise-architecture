@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveStock"
+    id="id-06408a0f2729460bb574486df3c370b2"
+    documentation="Esta operación invoca a:&#xD;&#xA;CheckAvailabilityInWarehouse"/>

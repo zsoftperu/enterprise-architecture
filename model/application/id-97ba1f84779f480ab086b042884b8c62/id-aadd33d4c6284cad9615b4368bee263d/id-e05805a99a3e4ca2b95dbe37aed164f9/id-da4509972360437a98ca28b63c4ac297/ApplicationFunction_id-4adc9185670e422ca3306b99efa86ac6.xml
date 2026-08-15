@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ValidarPuntoControlMaterial - 62017"
+    id="id-4adc9185670e422ca3306b99efa86ac6"
+    documentation="El servicio 62017 — validarPuntoControl es el único servicio del grupo 62 que NO conecta con SAP. En su lugar, invoca un servicio del Web Delivery Center (WDC), un sistema externo distinto a SAP PI que expone servicios web sobre protocolo HTTP (sin HTTPS)."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieve SiteItemsStock"
+    id="id-35dc87269a0140418601b817449e53dc"
+    documentation="Esta operación invoca a:&#xD;&#xA;RetrieveAvailableDevicesByShop"/>

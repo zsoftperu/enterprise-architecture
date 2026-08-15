@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveSalesleadById"
+    id="id-3a2b596571bc40fca6622341bde84d3b"
+    documentation="Obtiene por id la venta"/>
