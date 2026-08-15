@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Determinar Origen Material - 62021"
+    id="id-527571367fd04f31b91f7bdc4ee4dde9"
+    documentation="Este servicio invoca el siguiente endpoint de SAP:&#xD;&#xA;determinarOrigMaterial.&#xD;&#xA;BS_ObtenerEquivalencias&#xD;&#xA;&#xD;&#xA;El servicio 62021 – determinarOrigMaterial determina el origen y el material asociado a uno o varios recursos (números de serie / equipos) consultando el sistema SAP. Es el servicio de mayor complejidad dentro del grupo 62 (RSC Logistics), ya que implementa un patrón de orquestación multi-backend: realiza dos llamadas externas secuenciales antes de devolver la respuesta al consumidor."/>

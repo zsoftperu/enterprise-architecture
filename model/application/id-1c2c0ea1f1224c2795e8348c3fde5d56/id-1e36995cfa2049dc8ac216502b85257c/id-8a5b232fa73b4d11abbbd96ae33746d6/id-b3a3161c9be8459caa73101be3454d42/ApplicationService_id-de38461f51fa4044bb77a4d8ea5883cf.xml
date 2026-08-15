@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[GET] /saleslead/{id}"
+    id="id-de38461f51fa4044bb77a4d8ea5883cf"
+    documentation="Obtiene por id la venta"/>

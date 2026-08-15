@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consultar Disponibilidad de material - 62013"
+    id="id-7407a9efaeb34ff3a165748014cb6464"
+    documentation="Este servicio invoca el siguiente endpoint de SAP:&#xD;&#xA;ConsultaDispMaterial.&#xD;&#xA;&#xD;&#xA;El servicio 62013 - ConsultaDispMaterial es un servicio de integración implementado sobre Oracle Service Bus que actúa como mediador entre los sistemas consumidores (AMDOCS/sistemas internos de Telefónica) y el sistema SAP a través de su adaptador SAP PI/XI.&#xD;&#xA;&#xD;&#xA;Su propósito funcional es consultar la disponibilidad de materiales en inventario en SAP para uno o más almacenes y materiales dados. El servicio recibe una solicitud con el código de planta, una lista de almacenes y una lista de materiales a consultar, transforma el mensaje al formato SAP, delega la consulta hacia SAP, y retorna la disponibilidad de cada material por almacén al consumidor."/>

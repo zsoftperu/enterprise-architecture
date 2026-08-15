@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="validacion materiales - 62016"
+    id="id-ebbde93481b448158b950147c2a648e1"
+    documentation="El servicio 62016 — validacionMateriales realiza una validación masiva de materiales asociados a órdenes en SAP. Recibe una estructura jerárquica de órdenes con sus acciones y recursos, los envía a SAP para validación masiva, y retorna un resultado global simple (solo returnCode + returnDescription).&#xD;&#xA;&#xD;&#xA;Invoca a:&#xD;&#xA;GBL_ValidarMaterial_AMDOCS_Sync_Out"/>

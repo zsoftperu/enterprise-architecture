@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[PATCH] /saleslead/{id}"
+    id="id-eb39477ef68e49b49c11eb0055c65ba9"
+    documentation="Actualiza los datos del collection Sale en cosmo BD"/>

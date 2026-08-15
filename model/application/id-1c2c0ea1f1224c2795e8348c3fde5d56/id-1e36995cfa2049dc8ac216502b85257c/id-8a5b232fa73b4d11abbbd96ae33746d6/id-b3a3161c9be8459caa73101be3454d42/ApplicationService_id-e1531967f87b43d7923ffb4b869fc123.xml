@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[POST] /sales"
+    id="id-e1531967f87b43d7923ffb4b869fc123"
+    documentation="Actualiza datos de la orden de Sales"/>

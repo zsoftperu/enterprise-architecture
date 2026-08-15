@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Azure Kuberntes Service"
+    id="id-d19ca7c679e84a9e993ae67a55f33b1d"
+    documentation="Azure Kubernetes dónde se despliegan los siguientes microservicios:&#xD;&#xA;ms-dito-customervalidation"/>

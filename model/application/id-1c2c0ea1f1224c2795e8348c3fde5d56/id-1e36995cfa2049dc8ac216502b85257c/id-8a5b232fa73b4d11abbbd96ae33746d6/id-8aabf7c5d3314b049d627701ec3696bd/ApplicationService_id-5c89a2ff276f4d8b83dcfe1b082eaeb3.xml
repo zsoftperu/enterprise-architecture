@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[POST] /generarPregunta"
+    id="id-5c89a2ff276f4d8b83dcfe1b082eaeb3"
+    documentation="Obtiene pregunta para la validación no biométrica"/>

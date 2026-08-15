@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ms-biometric-authentication-management "
+    id="id-ec3f4267e85e45e288c3107e493822b7"
+    documentation="Microservicio que que permite la validación de un cliente.&#xD;&#xA;Contiene 3 operaciones:&#xD;&#xA;checkDigitalIdentityEligibility : Elegibilidad del cliente para biometría.&#xD;&#xA;createDigitalIdentityAuthentication: Inicia una transacción de biomería.&#xD;&#xA;retrieveDigitalIdentityAuthenticationStatus: Consulta el estado de una transacción."/>

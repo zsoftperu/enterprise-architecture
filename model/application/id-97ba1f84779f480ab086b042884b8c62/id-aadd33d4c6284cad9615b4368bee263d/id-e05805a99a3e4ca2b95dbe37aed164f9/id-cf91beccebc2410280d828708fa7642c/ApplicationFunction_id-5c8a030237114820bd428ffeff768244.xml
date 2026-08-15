@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validar Materiales - 62022"
+    id="id-5c8a030237114820bd428ffeff768244"
+    documentation="Este servicio invoca el siguiente endpoint de SAP:&#xD;&#xA;reservaMaterial.&#xD;&#xA;&#xD;&#xA;El servicio 62022 - validarMaterial expone la operación validarMaterial sobre Oracle Service Bus para validar materiales asociados a órdenes de venta en el sistema SAP Tienda. Para cada recurso incluido en la solicitud, SAP retorna un resultado de validación (validateResult, campo de 1 carácter obligatorio) y, opcionalmente, la fecha del último movimiento sin stock (lastOutOfStockDate).&#xD;&#xA;&#xD;&#xA;"/>

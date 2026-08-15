@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Biometrics Platform"
+    id="id-327de93ab60741e89a2ecb43c2c13380"
+    documentation="Plataform Biométrica que es el backend de la biometría, contiene 3 operaciones:&#xD;&#xA;Valida elegibilidad para autenticación biométrica&#xD;&#xA;Iniciar la transacción de autenticación biométrica&#xD;&#xA;Consultar el estado de la autenticación y retornar token&#xD;&#xA;&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[PUT] /saleslead/{id}"
+    id="id-d59656eac688443a859e6cdbe3296ca6"
+    documentation="Actualiza los datos de un Sale en la BBDD de la Web Convergente"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ms-dito-customervalidation"
+    id="id-ffe27375bb6241149d9802048d91cb3e"
+    documentation="Microservicio que que permite la validación de un cliente.&#xD;&#xA;Contiene 3 operaciones:&#xD;&#xA;checkDigitalIdentityEligibility : Elegibilidad del cliente para biometría.&#xD;&#xA;createDigitalIdentityAuthentication: Inicia una transacción de biomería.&#xD;&#xA;retrieveDigitalIdentityAuthenticationStatus: Consulta el estado de una transacción."/>

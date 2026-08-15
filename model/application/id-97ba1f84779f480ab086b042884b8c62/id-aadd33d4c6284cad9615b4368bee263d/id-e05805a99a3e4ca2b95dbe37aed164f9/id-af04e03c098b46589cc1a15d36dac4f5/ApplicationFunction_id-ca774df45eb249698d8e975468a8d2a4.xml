@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reservar Material - 62014"
+    id="id-ca774df45eb249698d8e975468a8d2a4"
+    documentation="Este servicio invoca el siguiente endpoint de SAP:&#xD;&#xA;reservaMaterial&#xD;&#xA;&#xD;&#xA;El servicio 62014 - ReservaMaterial es un servicio de integración implementado sobre Oracle Service Bus que actúa como mediador entre los sistemas consumidores (AMDOCS/sistemas internos de Telefónica) y el sistema SAP a través de su adaptador SAP PI/XI.&#xD;&#xA;&#xD;&#xA;Su propósito funcional es reservar materiales en SAP asociados a órdenes de venta logísticas. El servicio recibe una solicitud con los datos de la orden, el almacén y los materiales a reservar, realiza la transformación de formato necesaria y delega la operación hacia SAP, retornando la respuesta normalizada al consumidor."/>

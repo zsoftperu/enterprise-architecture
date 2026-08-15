@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="replaceSaleslead"
+    id="id-2a95c7dda77a46e0a6159f36562146bf"
+    documentation="Actualiza los datos del collection Sale en cosmo BD"/>

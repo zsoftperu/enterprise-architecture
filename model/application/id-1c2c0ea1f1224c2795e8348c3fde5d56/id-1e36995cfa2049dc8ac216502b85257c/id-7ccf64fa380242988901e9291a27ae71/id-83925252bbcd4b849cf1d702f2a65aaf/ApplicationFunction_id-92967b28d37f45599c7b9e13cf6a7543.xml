@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieve Individual Government Details"
+    id="id-92967b28d37f45599c7b9e13cf6a7543"
+    documentation="Obtiene datos de RENIEC de una persona"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cancel ReservationOfDevice"
+    id="id-43282fd0c2f84eb2982ff688d764630a"
+    documentation="Este servicio invoca el siguiente endpoint de SAP:&#xD;&#xA;liberarReservaMaterial.&#xD;&#xA;&#xD;&#xA;El servicio CancelReservationOfDevice permite cancelar (liberar) la reserva de materiales previamente realizada en SAP para una orden de venta. Esto libera los dispositivos reservados en la bodega, permitiendo que puedan ser asignados a otras órdenes.&#xD;&#xA;&#xD;&#xA;El flujo principal realiza:&#xD;&#xA;&#xD;&#xA;Obtención de la bodega principal — Determina la bodega SAP (plantCode) asociada a la tienda, considerando si la cancelación es de un envío (isShipmentToBeCancelled) para seleccionar el deliveryMethod correcto.&#xD;&#xA;Liberación de reserva en SAP — Invoca al servicio liberarReservaMaterial para ejecutar la cancelación de la reserva, enviando el orderId y opcionalmente el orderActionId.&#xD;&#xA;La respuesta incluye el código de estado de la operación (éxito o error)."/>

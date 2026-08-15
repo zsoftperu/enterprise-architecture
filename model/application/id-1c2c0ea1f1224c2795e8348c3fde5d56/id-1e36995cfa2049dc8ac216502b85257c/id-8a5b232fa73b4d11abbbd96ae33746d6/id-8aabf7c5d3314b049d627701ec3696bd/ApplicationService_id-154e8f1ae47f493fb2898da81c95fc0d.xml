@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[POST] /procesartoken"
+    id="id-154e8f1ae47f493fb2898da81c95fc0d"
+    documentation="Procesa el token"/>

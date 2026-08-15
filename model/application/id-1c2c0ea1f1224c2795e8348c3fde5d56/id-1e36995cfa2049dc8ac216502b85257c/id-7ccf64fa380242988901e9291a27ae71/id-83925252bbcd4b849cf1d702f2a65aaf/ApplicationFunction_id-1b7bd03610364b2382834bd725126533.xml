@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="createCustomer"
+    id="id-1b7bd03610364b2382834bd725126533"
+    documentation="Registra los datos de un nuevo cliente"/>
