@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="decrementBalance"
+    id="id-296cea93a18d4b33864a17f1bbe1985c"
+    documentation="Decrementa el saldo del cliente"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="getAccountBalance"
+    id="id-b29637f33a644f37a5fd600dae73148c"
+    documentation="Obtiene el saldo de cuenta del cliente"/>

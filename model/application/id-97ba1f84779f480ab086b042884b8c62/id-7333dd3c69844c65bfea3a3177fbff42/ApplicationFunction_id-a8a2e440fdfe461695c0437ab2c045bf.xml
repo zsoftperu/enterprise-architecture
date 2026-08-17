@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="incrementBalance"
+    id="id-a8a2e440fdfe461695c0437ab2c045bf"
+    documentation="Incrementa el saldo del cliente"/>
