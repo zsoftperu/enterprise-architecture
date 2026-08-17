@@ -1793,6 +1793,20 @@
             targetConnections="id-a62c895aaff74153990b28d0b1f25d53 id-646d6e97e8134b958606b6eb44b0f87c"
             fillColor="#fbfd95"
             textPosition="1">
+          <sourceConnections
+              xsi:type="archimate:DiagramModelArchimateConnection"
+              id="id-9e3a6842c185452989c3c5472a95336c"
+              source="id-3f2eb574f4364b2b838abe7b07c76eb3"
+              target="id-cbb536c77a6c4636a306c05293b2e4b4">
+            <bendpoints
+                startX="-5"
+                startY="-229"
+                endX="-665"
+                endY="-13"/>
+            <archimateRelationship
+                xsi:type="archimate:ServingRelationship"
+                href="ServingRelationship_id-88d31575d8bf44368d86e247c4b68021.xml#id-88d31575d8bf44368d86e247c4b68021"/>
+          </sourceConnections>
           <bounds
               x="204"
               y="48"
@@ -1808,6 +1822,20 @@
             targetConnections="id-3028c09aaf34451b94a250d9f550e3ac id-e2420eca3b2e49549b3ff94c25ba3fd0"
             fillColor="#fbfd95"
             textPosition="1">
+          <sourceConnections
+              xsi:type="archimate:DiagramModelArchimateConnection"
+              id="id-a309f165354f4f2ab2e3bd14fa6b43cc"
+              source="id-f12d794c900e4be8ae8c8e1a6c06ff1c"
+              target="id-cbb536c77a6c4636a306c05293b2e4b4">
+            <bendpoints
+                startX="-1"
+                startY="-217"
+                endX="-481"
+                endY="-1"/>
+            <archimateRelationship
+                xsi:type="archimate:ServingRelationship"
+                href="ServingRelationship_id-3c2b67783efa457782051a50e6ebf4ad.xml#id-3c2b67783efa457782051a50e6ebf4ad"/>
+          </sourceConnections>
           <bounds
               x="384"
               y="48"
@@ -1884,7 +1912,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-cbb536c77a6c4636a306c05293b2e4b4"
-      targetConnections="id-92da8c96a0e04aff9954fea5e96e9dc1 id-f17ae03f3a6d468b8ec5c80a62bdd9be id-04e4c24bce59418291a99a9d046de2d0 id-686af54fb9594918b09c9fabe534fb26 id-90ab329030764b26a3b07069c6e63d3a id-59a25ea80385442aa3809b00c4bd337c"
+      targetConnections="id-92da8c96a0e04aff9954fea5e96e9dc1 id-f17ae03f3a6d468b8ec5c80a62bdd9be id-04e4c24bce59418291a99a9d046de2d0 id-686af54fb9594918b09c9fabe534fb26 id-90ab329030764b26a3b07069c6e63d3a id-59a25ea80385442aa3809b00c4bd337c id-a309f165354f4f2ab2e3bd14fa6b43cc id-9e3a6842c185452989c3c5472a95336c"
       fillColor="#fbfd95"
       textPosition="1">
     <bounds
