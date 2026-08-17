@@ -1896,32 +1896,4 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-22d39b68c3a24a4d948fcfb0130b9183.xml#id-22d39b68c3a24a4d948fcfb0130b9183"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-640877eb56c64406a666e89d67a3c37a"
-      fillColor="#fbfd95"
-      textPosition="1">
-    <bounds
-        x="-432"
-        y="-240"
-        width="169"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationFunction"
-        href="ApplicationFunction_id-92967b28d37f45599c7b9e13cf6a7543.xml#id-92967b28d37f45599c7b9e13cf6a7543"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-9845fbf16f604366a503bc2ce182a5c9"
-      fillColor="#fbfd95"
-      textPosition="1">
-    <bounds
-        x="-252"
-        y="-240"
-        width="169"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationFunction"
-        href="ApplicationFunction_id-1b7bd03610364b2382834bd725126533.xml#id-1b7bd03610364b2382834bd725126533"/>
-  </children>
 </archimate:ArchimateDiagramModel>
