@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="queryPromotion"
+    id="id-ce5fbb69ea1b4e45ad3d6245d6d68e85"
+    documentation="Consulta una promoción específica"/>
