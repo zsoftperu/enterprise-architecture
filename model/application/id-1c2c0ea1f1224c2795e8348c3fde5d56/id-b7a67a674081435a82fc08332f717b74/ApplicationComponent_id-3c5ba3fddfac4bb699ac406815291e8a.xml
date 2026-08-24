@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AOM"
-    id="id-3c5ba3fddfac4bb699ac406815291e8a"/>
+    id="id-3c5ba3fddfac4bb699ac406815291e8a"
+    documentation="Sistema Amdocs AOM para aprovisionamiento de allowances postpago"/>
