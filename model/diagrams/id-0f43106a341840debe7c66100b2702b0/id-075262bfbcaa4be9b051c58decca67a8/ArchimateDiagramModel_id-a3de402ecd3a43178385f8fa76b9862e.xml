@@ -96,7 +96,7 @@
       targetConnections="id-b2e981937f134dc7bda5b23cf66ac814">
     <bounds
         x="109"
-        y="253"
+        y="257"
         width="120"
         height="55"/>
     <archimateElement
@@ -109,7 +109,7 @@
       targetConnections="id-d0d7a9efb0a34371aa625c035eeacf7a">
     <bounds
         x="109"
-        y="322"
+        y="340"
         width="120"
         height="55"/>
     <archimateElement
@@ -122,7 +122,7 @@
       targetConnections="id-4f578d4945e74f528ae114a3dad51a60">
     <bounds
         x="109"
-        y="394"
+        y="419"
         width="120"
         height="55"/>
     <archimateElement
