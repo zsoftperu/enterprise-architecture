@@ -1,4 +1,14 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DITO Web"
-    id="id-22d39b68c3a24a4d948fcfb0130b9183"/>
+    id="id-22d39b68c3a24a4d948fcfb0130b9183">
+  <properties
+      key="Type"
+      value="Application"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Type"/>
+</archimate:ApplicationComponent>

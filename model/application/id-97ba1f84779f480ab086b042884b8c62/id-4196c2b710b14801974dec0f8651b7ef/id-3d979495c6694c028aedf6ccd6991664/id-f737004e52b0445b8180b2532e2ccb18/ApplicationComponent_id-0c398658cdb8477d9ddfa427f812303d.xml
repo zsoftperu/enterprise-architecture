@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RetrieveCustomerTickets"
-    id="id-0c398658cdb8477d9ddfa427f812303d"/>
+    id="id-0c398658cdb8477d9ddfa427f812303d">
+  <properties
+      key="Type"
+      value="Service"/>
+</archimate:ApplicationComponent>

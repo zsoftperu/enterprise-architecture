@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Web Autogestión"
-    id="id-3f27e711e8ed4663984802789548449c"/>
+    id="id-3f27e711e8ed4663984802789548449c">
+  <properties
+      key="Type"
+      value="Application"/>
+</archimate:ApplicationComponent>

@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SATPUSH"
-    id="id-74ebf8cc8b124bcb9f333c06dd7872bd"/>
+    id="id-74ebf8cc8b124bcb9f333c06dd7872bd">
+  <properties
+      key="Type"
+      value="Application"/>
+</archimate:ApplicationComponent>

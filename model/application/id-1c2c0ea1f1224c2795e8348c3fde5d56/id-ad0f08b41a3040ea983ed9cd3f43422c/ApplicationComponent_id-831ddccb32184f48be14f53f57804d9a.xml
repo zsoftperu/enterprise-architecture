@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SISTEC"
-    id="id-831ddccb32184f48be14f53f57804d9a"/>
+    id="id-831ddccb32184f48be14f53f57804d9a">
+  <properties
+      key="Type"
+      value="Application"/>
+</archimate:ApplicationComponent>

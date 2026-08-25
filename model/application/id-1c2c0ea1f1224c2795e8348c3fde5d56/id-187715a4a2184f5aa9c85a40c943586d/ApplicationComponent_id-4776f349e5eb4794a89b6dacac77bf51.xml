@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MCS"
-    id="id-4776f349e5eb4794a89b6dacac77bf51"/>
+    id="id-4776f349e5eb4794a89b6dacac77bf51">
+  <properties
+      key="Type"
+      value="Application"/>
+</archimate:ApplicationComponent>

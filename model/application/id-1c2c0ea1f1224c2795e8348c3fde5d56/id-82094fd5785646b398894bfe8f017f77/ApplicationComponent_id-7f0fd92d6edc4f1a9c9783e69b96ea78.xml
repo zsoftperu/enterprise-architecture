@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Magento"
-    id="id-7f0fd92d6edc4f1a9c9783e69b96ea78"/>
+    id="id-7f0fd92d6edc4f1a9c9783e69b96ea78">
+  <properties
+      key="Type"
+      value="Application"/>
+</archimate:ApplicationComponent>

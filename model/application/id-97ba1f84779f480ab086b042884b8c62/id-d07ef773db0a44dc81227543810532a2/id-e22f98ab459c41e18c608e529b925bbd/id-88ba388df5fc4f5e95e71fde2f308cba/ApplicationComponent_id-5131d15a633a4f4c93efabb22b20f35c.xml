@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Create Quotation"
-    id="id-5131d15a633a4f4c93efabb22b20f35c"/>
+    id="id-5131d15a633a4f4c93efabb22b20f35c">
+  <properties
+      key="Type"
+      value="Service"/>
+</archimate:ApplicationComponent>

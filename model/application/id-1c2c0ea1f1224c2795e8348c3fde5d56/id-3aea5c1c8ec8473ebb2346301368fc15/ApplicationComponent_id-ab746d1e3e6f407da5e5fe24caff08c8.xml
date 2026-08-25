@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NovumPlatform"
-    id="id-ab746d1e3e6f407da5e5fe24caff08c8"/>
+    id="id-ab746d1e3e6f407da5e5fe24caff08c8">
+  <properties
+      key="Type"
+      value="Application"/>
+</archimate:ApplicationComponent>
