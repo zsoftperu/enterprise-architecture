@@ -1,0 +1,4 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[GET] /getAccountBalance"
+    id="id-a21e6b09bcb04fc1ba0fc5322312f4b7"/>
