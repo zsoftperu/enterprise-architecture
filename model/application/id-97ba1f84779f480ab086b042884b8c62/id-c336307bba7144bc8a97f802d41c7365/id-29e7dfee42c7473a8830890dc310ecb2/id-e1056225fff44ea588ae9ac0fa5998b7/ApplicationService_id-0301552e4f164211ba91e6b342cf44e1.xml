@@ -1,0 +1,4 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[PUT] productOrders/{orderId}/status"
+    id="id-0301552e4f164211ba91e6b342cf44e1"/>

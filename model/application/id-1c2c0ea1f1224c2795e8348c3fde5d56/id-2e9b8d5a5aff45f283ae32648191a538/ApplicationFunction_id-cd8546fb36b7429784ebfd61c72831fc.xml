@@ -1,4 +1,4 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="createOrder"
-    id="id-c30da196490744c094bdcf26e025d62c"/>
+    name="updateProductStatus"
+    id="id-cd8546fb36b7429784ebfd61c72831fc"/>
