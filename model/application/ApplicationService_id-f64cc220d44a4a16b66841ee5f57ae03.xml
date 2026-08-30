@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Retrieve AvailableDevicesByShop"
+    id="id-f64cc220d44a4a16b66841ee5f57ae03"
+    documentation="Este servicio invoca el siguiente endpoint de SAP:&#xD;&#xA;&#xD;&#xA;consultarDispAlmacen"/>

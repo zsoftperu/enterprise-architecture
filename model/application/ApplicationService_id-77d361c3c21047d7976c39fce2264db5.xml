@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validate DeviceInShop"
+    id="id-77d361c3c21047d7976c39fce2264db5"
+    documentation="Este servicio invoca el siguiente endpoint de SAP:&#xD;&#xA;&#xD;&#xA;validarMaterial"/>
