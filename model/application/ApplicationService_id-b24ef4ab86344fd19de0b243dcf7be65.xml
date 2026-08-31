@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Request Logistics"
-    id="id-b24ef4ab86344fd19de0b243dcf7be65"
-    documentation="Este servicio invoca el siguiente endpoint de SAP:&#xD;&#xA;&#xD;&#xA;entregarEquipos&#xD;&#xA;moverInventario"/>

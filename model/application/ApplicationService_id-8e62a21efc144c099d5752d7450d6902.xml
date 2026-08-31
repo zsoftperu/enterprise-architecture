@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ReserveDevice"
-    id="id-8e62a21efc144c099d5752d7450d6902"
-    documentation="Este servicio invoca el siguiente endpoint de SAP:&#xD;&#xA;&#xD;&#xA;reservaMaterial"/>
