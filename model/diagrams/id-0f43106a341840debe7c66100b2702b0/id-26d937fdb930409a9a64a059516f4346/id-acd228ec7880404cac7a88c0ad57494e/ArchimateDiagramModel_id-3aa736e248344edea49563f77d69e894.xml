@@ -516,7 +516,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-a9e166f8bc6447c2a5b75fb91a1eb4ab"
           targetConnections="id-db4651ae453f48899e24d77898894ca6"
-          fillColor="#b5ffff">
+          fillColor="#c6f9c6">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-b59e1eab932b434fa1405b8be42c4a22"
@@ -544,7 +544,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-a95d60a04ccc4427ab8a10705891046b"
             targetConnections="id-b59e1eab932b434fa1405b8be42c4a22"
-            fillColor="#b5ffff"
+            fillColor="#c6f9c6"
             textPosition="1">
           <bounds
               x="36"
@@ -559,7 +559,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-5aacd6a7348d4ac49ba1af52a5215303"
             targetConnections="id-e3a2635683864652b9f664fa36c8d78f"
-            fillColor="#b5ffff"
+            fillColor="#c6f9c6"
             textPosition="1">
           <bounds
               x="36"
@@ -608,5 +608,76 @@
     <archimateElement
         xsi:type="archimate:CommunicationNetwork"
         href="CommunicationNetwork_id-73c3f91c66ec454aa70a2c8af15f2178.xml#id-73c3f91c66ec454aa70a2c8af15f2178"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-a0ca007ee7e744c78459ac3a3a81b51f"
+      textAlignment="1"
+      content="Leyenda">
+    <bounds
+        x="708"
+        y="696"
+        width="553"
+        height="73"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-a130f39a97df4dceb0a5298d167eaa86"
+      fillColor="#ffeac6"
+      content="Migración"
+      textPosition="1">
+    <bounds
+        x="1044"
+        y="720"
+        width="97"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-bc8663b874bc43e8a36147218e37010d"
+      fillColor="#80ffff"
+      content="Reutilización"
+      textPosition="1">
+    <bounds
+        x="936"
+        y="720"
+        width="97"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c555be7a159a4bc38c666cd881fdca22"
+      fillColor="#c6f5c6"
+      content="Nuevo"
+      textPosition="1">
+    <bounds
+        x="720"
+        y="720"
+        width="97"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-50174f04978e458b98b63da0292ff4a0"
+      fillColor="#ffff80"
+      content="Modificación"
+      textPosition="1">
+    <bounds
+        x="828"
+        y="720"
+        width="97"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-423f0c48de994d5996bb3845026530da"
+      fillColor="#aed7ff"
+      content="Configuración"
+      textPosition="1">
+    <bounds
+        x="1152"
+        y="720"
+        width="97"
+        height="38"/>
   </children>
 </archimate:ArchimateDiagramModel>
