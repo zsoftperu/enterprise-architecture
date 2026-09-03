@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FCRPlatform"
+    id="id-3dc2f70c7fd549eb8f6ec543c7b7302b">
+  <properties
+      key="Type"
+      value="Application"/>
+</archimate:ApplicationComponent>

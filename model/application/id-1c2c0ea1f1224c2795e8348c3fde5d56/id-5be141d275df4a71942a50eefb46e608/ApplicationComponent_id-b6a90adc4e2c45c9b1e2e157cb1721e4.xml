@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SALEAPP"
+    id="id-b6a90adc4e2c45c9b1e2e157cb1721e4">
+  <properties
+      key="Type"
+      value="Application"/>
+</archimate:ApplicationComponent>

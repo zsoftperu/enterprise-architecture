@@ -1,0 +1,4 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DELETE /inventories/{inventoryId}"
+    id="id-80b09f0560d44355a05b4caaf1a1afb5"/>

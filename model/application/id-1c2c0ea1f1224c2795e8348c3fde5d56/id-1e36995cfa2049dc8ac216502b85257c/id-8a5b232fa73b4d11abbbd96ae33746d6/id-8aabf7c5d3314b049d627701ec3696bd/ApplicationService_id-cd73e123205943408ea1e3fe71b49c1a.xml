@@ -1,0 +1,4 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[GET] /biometricAuthentication/linkAuthentication"
+    id="id-cd73e123205943408ea1e3fe71b49c1a"/>

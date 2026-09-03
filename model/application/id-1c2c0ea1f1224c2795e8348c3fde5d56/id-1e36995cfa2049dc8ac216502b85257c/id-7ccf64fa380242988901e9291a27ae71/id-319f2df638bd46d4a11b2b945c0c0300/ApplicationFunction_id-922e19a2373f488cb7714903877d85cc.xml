@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="createSaleslead"
+    id="id-922e19a2373f488cb7714903877d85cc"
+    documentation="Registra los datos de un Sale en la BBDD de la Web Convergente."/>

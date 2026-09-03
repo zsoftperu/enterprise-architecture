@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="addPostpaidAllowance"
+    id="id-1dafd7aeae5f4898bea12f2fa6abdc8a"
+    documentation="Agrega un allowance (bolsa/beneficio) a un suscriptor postpago de forma sincrona"/>

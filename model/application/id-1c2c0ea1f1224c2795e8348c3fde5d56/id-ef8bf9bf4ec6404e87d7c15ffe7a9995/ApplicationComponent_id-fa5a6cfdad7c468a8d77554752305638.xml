@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="USSD"
+    id="id-fa5a6cfdad7c468a8d77554752305638">
+  <properties
+      key="Type"
+      value="Application"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Type"/>
+</archimate:ApplicationComponent>

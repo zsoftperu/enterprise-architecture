@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveSubscriptionBalance"
+    id="id-7d964d37b9da4ba98bf0f6b52a03b35c"
+    documentation="Consulta el saldo de suscripción"/>

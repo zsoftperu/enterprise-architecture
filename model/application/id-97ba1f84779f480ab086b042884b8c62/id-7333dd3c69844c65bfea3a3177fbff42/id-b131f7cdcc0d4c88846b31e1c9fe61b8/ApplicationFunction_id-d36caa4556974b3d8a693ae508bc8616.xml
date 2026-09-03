@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="rechargeService"
+    id="id-d36caa4556974b3d8a693ae508bc8616"
+    documentation="Ejecuta el servicio de recarga"/>

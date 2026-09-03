@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Liberar reserva de material - 62015"
+    id="id-cef3ac83f33e40cd99098e649accf54e"
+    documentation="Este servicio invoca el siguiente endpoint de SAP:&#xD;&#xA;liberarReservaMaterial.&#xD;&#xA;&#xD;&#xA;El servicio 62015 - liberarReservaMaterial es un servicio de integración sincrónico implementado sobre Oracle Service Bus (OSB) dentro del proyecto P_OSB_GEN_62_RSCLOGISTICS. Su propósito es liberar una reserva de materiales previamente creada en SAP para una orden logística específica."/>

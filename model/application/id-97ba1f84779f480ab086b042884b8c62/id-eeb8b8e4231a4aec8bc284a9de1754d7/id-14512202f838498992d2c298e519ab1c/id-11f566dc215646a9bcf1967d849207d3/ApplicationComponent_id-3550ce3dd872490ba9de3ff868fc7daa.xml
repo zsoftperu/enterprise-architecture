@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CalculateReplaceOffer"
+    id="id-3550ce3dd872490ba9de3ff868fc7daa">
+  <properties
+      key="Type"
+      value="Service"/>
+</archimate:ApplicationComponent>

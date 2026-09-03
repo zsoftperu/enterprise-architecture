@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JTELLER"
+    id="id-c62eb7ec0ba241149cd8de1c873180e2">
+  <properties
+      key="Type"
+      value="Application"/>
+</archimate:ApplicationComponent>

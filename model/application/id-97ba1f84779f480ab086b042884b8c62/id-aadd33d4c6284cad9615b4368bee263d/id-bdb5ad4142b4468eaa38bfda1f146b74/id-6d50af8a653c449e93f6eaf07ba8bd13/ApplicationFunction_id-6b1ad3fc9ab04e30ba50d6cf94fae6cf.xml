@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="delete StockReservation"
+    id="id-6b1ad3fc9ab04e30ba50d6cf94fae6cf"
+    documentation="Esta operación invoca a:&#xD;&#xA;CancelReservationOf Device"/>

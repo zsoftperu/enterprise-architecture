@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="changeCustomerBalance"
+    id="id-234210fc659b4c0a8f64c4f61bd36da6"
+    documentation="Modifica el saldo del cliente (ajuste)"/>

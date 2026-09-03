@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CreateCustomerBillingProblem"
+    id="id-10ba1f6515364f87800f758e3d0e43eb">
+  <properties
+      key="Type"
+      value="Service"/>
+</archimate:ApplicationComponent>

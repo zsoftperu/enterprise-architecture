@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campaigns Management"
+    id="id-df18d50efdaf422cb4d925cf902236ee">
+  <properties
+      key="Type"
+      value="Service"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cancel ReservationOf Device"
+    id="id-4e457522a99f49fd8df31e9911ce43fa"
+    documentation="Este servicio invoca el siguiente endpoint de SAP:&#xD;&#xA;&#xD;&#xA;liberarReservaMaterial"/>

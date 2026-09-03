@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Biometric Authentication"
+    id="id-7bc0d8515ee0448d895c87af3cad4e92"
+    documentation="API que ejecuta la validación biométrica.&#xD;&#xA;Expone los siguientes endpoints:&#xD;&#xA;GET /service/bc-authorize&#xD;&#xA;POST /service/ciba/token&#xD;&#xA;GET /service/jwks"/>

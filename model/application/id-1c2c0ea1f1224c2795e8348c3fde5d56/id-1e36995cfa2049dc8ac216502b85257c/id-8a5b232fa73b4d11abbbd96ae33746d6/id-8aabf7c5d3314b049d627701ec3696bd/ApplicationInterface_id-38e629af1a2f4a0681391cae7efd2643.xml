@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Validation FE"
+    id="id-38e629af1a2f4a0681391cae7efd2643"
+    documentation="API que permite la validación de un cliente.&#xD;&#xA;Contiene 3 operaciones:&#xD;&#xA;[POST] /biometricAuthentication /eligibilityCheck : Elegibilidad del cliente para biometría.&#xD;&#xA;[POST] /biometricAuthentication: Inicia una transacción de biomería.&#xD;&#xA;[GET] /biometricAuthentication/{clientTransactionId}/status: Consulta el estado de una transacción."/>

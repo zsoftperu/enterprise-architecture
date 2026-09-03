@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[POST] /validateCustomerIdentity"
+    id="id-90c230537e224ce99a5d2f103f7d1f4b"
+    documentation="Obtiene pregunta para la validación no biométrica"/>

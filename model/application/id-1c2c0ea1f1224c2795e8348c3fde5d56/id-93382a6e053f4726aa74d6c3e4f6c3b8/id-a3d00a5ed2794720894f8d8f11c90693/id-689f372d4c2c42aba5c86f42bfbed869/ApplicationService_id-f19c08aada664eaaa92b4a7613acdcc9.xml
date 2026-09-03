@@ -1,0 +1,4 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GET /resources/{resourcesId}/inventories"
+    id="id-f19c08aada664eaaa92b4a7613acdcc9"/>

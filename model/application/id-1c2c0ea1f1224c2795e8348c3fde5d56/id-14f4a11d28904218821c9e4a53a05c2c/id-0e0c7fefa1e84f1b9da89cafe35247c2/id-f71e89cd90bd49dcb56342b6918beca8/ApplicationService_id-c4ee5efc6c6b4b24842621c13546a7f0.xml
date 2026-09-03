@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GET /service/jwks"
+    id="id-c4ee5efc6c6b4b24842621c13546a7f0"
+    documentation="Consultar llaves públicas para validar token JWT"/>

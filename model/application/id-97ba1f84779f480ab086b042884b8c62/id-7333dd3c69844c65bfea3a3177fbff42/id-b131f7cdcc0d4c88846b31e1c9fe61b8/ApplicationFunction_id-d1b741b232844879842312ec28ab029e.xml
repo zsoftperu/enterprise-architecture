@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveRechargeHistory"
+    id="id-d1b741b232844879842312ec28ab029e"
+    documentation="Consulta el historial de recargas de un suscriptor"/>

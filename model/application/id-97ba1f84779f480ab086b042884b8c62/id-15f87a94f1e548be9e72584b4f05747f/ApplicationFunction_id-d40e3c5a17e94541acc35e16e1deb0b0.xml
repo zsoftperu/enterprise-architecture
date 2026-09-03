@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Check Availability InWarehouse"
+    id="id-d40e3c5a17e94541acc35e16e1deb0b0"
+    documentation="Este servicio invoca el siguiente endpoint de SAP:&#xD;&#xA;&#xD;&#xA;ConsultaDispMaterial"/>

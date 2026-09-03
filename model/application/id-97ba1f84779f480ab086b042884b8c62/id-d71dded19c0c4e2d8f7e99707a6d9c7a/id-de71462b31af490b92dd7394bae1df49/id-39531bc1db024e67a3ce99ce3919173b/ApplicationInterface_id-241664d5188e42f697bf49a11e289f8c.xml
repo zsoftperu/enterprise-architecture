@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="biometric-authentication-management"
+    id="id-241664d5188e42f697bf49a11e289f8c"
+    documentation="API que permite la validación de un cliente.&#xD;&#xA;Contiene 3 operaciones:&#xD;&#xA;[POST] /biometricAuthentication /eligibilityCheck : Elegibilidad del cliente para biometría.&#xD;&#xA;[POST] /biometricAuthentication: Inicia una transacción de biomería.&#xD;&#xA;[GET] /biometricAuthentication/{clientTransactionId}/status: Consulta el estado de una transacción."/>

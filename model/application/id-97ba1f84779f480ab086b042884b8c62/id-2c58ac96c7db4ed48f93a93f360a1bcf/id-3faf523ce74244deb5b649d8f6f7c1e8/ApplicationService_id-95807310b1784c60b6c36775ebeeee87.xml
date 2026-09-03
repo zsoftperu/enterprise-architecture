@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[GET] /devicemanagement/v1/devices/{imei}"
+    id="id-95807310b1784c60b6c36775ebeeee87"
+    documentation="Consulta un equipo de catalogo por su IMEI"/>

@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAAS"
+    id="id-73a78d02593646a8ba6ee12d3d6f3da9">
+  <properties
+      key="Type"
+      value="Application"/>
+</archimate:ApplicationComponent>

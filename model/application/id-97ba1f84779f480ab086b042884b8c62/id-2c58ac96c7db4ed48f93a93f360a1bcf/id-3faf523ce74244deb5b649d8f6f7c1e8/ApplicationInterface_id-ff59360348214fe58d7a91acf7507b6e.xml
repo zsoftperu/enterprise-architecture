@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Device Management"
+    id="id-ff59360348214fe58d7a91acf7507b6e"
+    documentation="API que permita consultar un equipo de catalogo por su IMEI"/>

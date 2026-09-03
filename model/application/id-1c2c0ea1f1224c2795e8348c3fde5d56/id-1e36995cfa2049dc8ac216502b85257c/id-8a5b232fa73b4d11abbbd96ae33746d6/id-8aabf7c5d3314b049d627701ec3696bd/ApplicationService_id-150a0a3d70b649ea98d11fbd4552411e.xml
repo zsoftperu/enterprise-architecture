@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[POST] /biometricAuthentication"
+    id="id-150a0a3d70b649ea98d11fbd4552411e"
+    documentation="[POST] /biometricAuthentication: Inicia una transacción de biomería.."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="movimientos inventario - 62018"
+    id="id-e41a89eb42694e768adf98e77ec61c9c"
+    documentation="El servicio 62018 - movimientosInventario realiza movimientos masivos de inventario en SAP.&#xD;&#xA;Su función es enviar múltiples órdenes con sus acciones y recursos para que SAP procese&#xD;&#xA;los movimientos de inventario en lote (batch)."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="rechargeAgainstBill"
+    id="id-4e9eef1d71e94a138cb04929b4339f49"
+    documentation="Realiza recarga contra factura"/>

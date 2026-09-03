@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CheckAvailability InWarehouse"
+    id="id-7392e91c401a4297aa1ec69b631b19ad"
+    documentation="Este servicio invoca el siguiente endpoint de SAP:&#xD;&#xA;ConsultaDispMaterial.&#xD;&#xA;&#xD;&#xA;El servicio CheckAvailabilityInWarehouse permite consultar la disponibilidad de materiales (equipos/dispositivos) en las bodegas asociadas a una tienda específica.&#xD;&#xA;&#xD;&#xA;El servicio valida la disponibilidad en hasta tres tipos de bodega:&#xD;&#xA;&#xD;&#xA;Bodega Principal (Main): La bodega directamente asociada a la tienda solicitante.&#xD;&#xA;Bodega CC (Centro de Costos): Una bodega de centro de costos relacionada (consultada condicionalmente si el flag CCFlag = 1).&#xD;&#xA;Bodega de Despacho (Shipment): Una bodega de despacho/envío (consultada condicionalmente si el flag ShipmentFlag = 1).&#xD;&#xA;La respuesta consolida las cantidades disponibles de cada material en cada una de las bodegas consultadas."/>

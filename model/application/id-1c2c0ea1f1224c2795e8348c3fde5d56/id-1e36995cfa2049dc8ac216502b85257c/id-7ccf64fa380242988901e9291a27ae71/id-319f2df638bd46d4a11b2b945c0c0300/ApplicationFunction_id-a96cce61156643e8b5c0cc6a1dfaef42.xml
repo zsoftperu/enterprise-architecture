@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="createSales"
+    id="id-a96cce61156643e8b5c0cc6a1dfaef42"
+    documentation="Actualiza datos de la orden de Sales"/>

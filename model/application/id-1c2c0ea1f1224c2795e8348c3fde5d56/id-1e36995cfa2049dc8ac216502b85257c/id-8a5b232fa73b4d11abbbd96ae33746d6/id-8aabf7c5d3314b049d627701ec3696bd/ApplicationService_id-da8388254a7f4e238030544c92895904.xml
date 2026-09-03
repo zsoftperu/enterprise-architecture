@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[POST] /cifrartoken"
+    id="id-da8388254a7f4e238030544c92895904"
+    documentation="Cifra el token "/>
