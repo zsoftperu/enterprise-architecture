@@ -994,6 +994,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-8f64b4a4e92642c7af4141e40fb2e2f3"
           targetConnections="id-2548d98f147142da8bde184c34e5c104 id-cb762479e4d64f3ba31d4c6614f928ec id-2b60d8d4ca4f4b769aa6293e174cecd2"
+          fillColor="#fcfebc"
           textPosition="1">
         <bounds
             x="744"
