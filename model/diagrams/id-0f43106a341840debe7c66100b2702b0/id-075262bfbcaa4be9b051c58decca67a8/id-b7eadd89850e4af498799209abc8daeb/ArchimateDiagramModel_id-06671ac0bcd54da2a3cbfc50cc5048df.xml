@@ -18,7 +18,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-0f4c5eade5584be783a69500f229d6a5"
       textAlignment="1"
-      fillColor="#80ffff"
+      fillColor="#aed7ff"
       content="Sin tráfico en Rewrelic en ultimos 30 días"
       textPosition="1">
     <bounds
@@ -313,6 +313,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-92b8ee0bc3d442398180d555883f2471"
             targetConnections="id-ca1dfadc5d344cacab8204a9016226e6 id-ff9b6492ab134940b84e9aba4800d061 id-c8ae866ffbfe43a29a390c6562f44073 id-c15229b948f34e71835e45c6d2c7b1c3"
+            fillColor="#aed7ff"
             textPosition="1">
           <bounds
               x="48"
@@ -327,6 +328,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-fd088eb077984965ae136520d5d2e764"
             targetConnections="id-71d5b66284b2425c9ae0c1a9b15b296d id-46ceb58ec7814b81b2339d9a7b7ff81d"
+            fillColor="#aed7ff"
             textPosition="1">
           <bounds
               x="48"
@@ -341,6 +343,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-cf34b4c610e04bfca51eee59edbab3bc"
             targetConnections="id-f25587d6a55a412481a18670ed2057e5 id-06e409160682449f9c3c5d1d61dc2bba"
+            fillColor="#aed7ff"
             textPosition="1">
           <bounds
               x="48"
@@ -383,6 +386,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-0dc7defe6a594278a392a0e279284c82"
             targetConnections="id-8f79eaea141d4012b6234761460b9ce5 id-8a2253ed499d46e79bf3099ddb96ad91"
+            fillColor="#aed7ff"
             textPosition="1">
           <bounds
               x="48"
@@ -397,6 +401,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-07732ee5b113482fa6558c3c66dbda2b"
             targetConnections="id-4df31e44e5c242b98ca39e5a00214608 id-4ccd4a67dba149a2b07717baf7d3b1ca id-c2d5bbd4df154b7b846b613ba2926f7c id-f414ee544f1444b1a2db726dae34585d"
+            fillColor="#aed7ff"
             textPosition="1">
           <bounds
               x="48"

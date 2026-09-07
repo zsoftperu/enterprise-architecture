@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="createQuotation"
-    id="id-3ebf767c21204c6b8286e1f97c740fcf"/>
+    id="id-3ebf767c21204c6b8286e1f97c740fcf"
+    documentation="Este servicio permite crear una cotización de financiamiento para dispositivos (celulares, SIM cards, HGU, routers) de clientes de Telefónica del Perú. Actúa como un servicio de orquestación en OSB que:&#xD;&#xA;&#xD;&#xA;Recibe la solicitud con datos del cliente, cuenta, ítems a financiar, montos, entidad financiera, etc.&#xD;&#xA;Obtiene las fechas del ciclo de facturación del cliente invocando el servicio de billing (l9GetCycleDates).&#xD;&#xA;Según el tipo de ítem a financiar, rutea condicionalmente a uno de dos backends financieros:&#xD;&#xA;CFM (Acuerdo de Financiamiento Interno): Para líneas móviles.&#xD;&#xA;SISFIND (Préstamo Bancario): Para líneas fijas/wireline.&#xD;&#xA;Construye la respuesta canónica con el número de cuotas, periodicidad y monto por cuota.&#xD;&#xA;Adicionalmente, la carpeta contiene el servicio auxiliar createCustomerBillingProblem_v1 que permite crear problemas/reclamos de facturación en el CRM Amdocs"/>

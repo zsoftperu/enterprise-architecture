@@ -18,7 +18,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-38cc60e0f3d14a4e889ec1bf704dedf8"
       textAlignment="1"
-      fillColor="#80ffff"
+      fillColor="#aed7ff"
       content="Sin tráfico en Rewrelic en ultimos 30 días"
       textPosition="1">
     <bounds
@@ -1119,6 +1119,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-3e7a308322fd4f0987de526a7f6aa372"
             targetConnections="id-e5b9d45269ec4d5aa953433d19220834 id-43bfaf02e38d4fdcafc1896648926981"
+            fillColor="#aed7ff"
             textPosition="1">
           <bounds
               x="36"
@@ -1133,6 +1134,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-9fe21c0c4c3d4980af118893da1ae64a"
             targetConnections="id-5990b5d5d2f14e278f62218ecd5b22c7 id-19136a062d204836adc7fdc47baf2b7f id-c944981163cd4863b0dc36d3cf092255 id-0959a956081b414fb75410d0b36f7146"
+            fillColor="#aed7ff"
             textPosition="1">
           <bounds
               x="36"
@@ -1147,6 +1149,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-848a7227f4a04ce6a810a4a380091fa8"
             targetConnections="id-f6ebc56282364e68abdf847e8790c7fd id-c7cdb52ce3b34c3589f037f70defcade id-4f8bc27d71d445d589357c38698d31f0 id-a86f8d967b634312bf2918d8c81b01d3"
+            fillColor="#aed7ff"
             textPosition="1">
           <bounds
               x="36"

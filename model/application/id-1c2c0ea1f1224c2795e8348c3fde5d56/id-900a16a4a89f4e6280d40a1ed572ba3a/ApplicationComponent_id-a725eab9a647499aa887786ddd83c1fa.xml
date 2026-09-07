@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP CONVERGENTE LOGINB2C"
-    id="id-a725eab9a647499aa887786ddd83c1fa">
+    name="App Convergente"
+    id="id-a725eab9a647499aa887786ddd83c1fa"
+    documentation="Nombres de aplicación:&#xD;&#xA;appconvergente2&#xD;&#xA;APP CONVERGENTE LOGINB2C">
   <properties
       key="Type"
       value="Application"/>
