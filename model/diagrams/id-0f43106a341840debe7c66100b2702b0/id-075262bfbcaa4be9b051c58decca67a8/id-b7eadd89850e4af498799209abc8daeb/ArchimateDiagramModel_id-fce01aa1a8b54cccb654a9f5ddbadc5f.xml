@@ -6,7 +6,14 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9e54b17245a64d9bb335df9ca79680bc"
+      font="1|Segoe UI Black|10.0|0|WINDOWS|1|-20|0|0|0|900|0|0|0|0|3|2|1|34|Segoe UI Black"
+      fontColor="#0080ff"
+      lineWidth="2"
+      lineColor="#0080ff"
       textAlignment="1">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-40f21b6fe92a4b38a6ec5859ff6a61ad"
@@ -73,6 +80,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-4955c1075411449581130a521f98ca17"
             targetConnections="id-884b57542c3c433a874e916d10454b04 id-c148f3cba0724cab9ea89936ccfb5a5d"
+            fillColor="#ffffc4"
             textPosition="1">
           <sourceConnections
               xsi:type="archimate:DiagramModelArchimateConnection"
@@ -153,7 +161,14 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-82dc608d2a9947d4abbc0588fbab9bdb"
+      font="1|Segoe UI Black|10.0|0|WINDOWS|1|-20|0|0|0|900|0|0|0|0|3|2|1|34|Segoe UI Black"
+      fontColor="#0080ff"
+      lineWidth="2"
+      lineColor="#0080ff"
       textAlignment="1">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-952e76cf199b4de9be3fc7bf5eb7dee1"
@@ -244,7 +259,14 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6b6de5fe97034e96a1fc0a6f6dd113e7"
+      font="1|Segoe UI Black|10.0|0|WINDOWS|1|-20|0|0|0|900|0|0|0|0|3|2|1|34|Segoe UI Black"
+      fontColor="#0080ff"
+      lineWidth="2"
+      lineColor="#0080ff"
       textAlignment="1">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-e8c8e1e296f84e619fd02bb1e29f9e50"
@@ -266,7 +288,7 @@
         textPosition="1">
       <bounds
           x="36"
-          y="101"
+          y="116"
           width="120"
           height="55"/>
       <archimateElement
@@ -276,5 +298,55 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-2ad95c88d5824b8ebc4828546ae7505d.xml#id-2ad95c88d5824b8ebc4828546ae7505d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-9a9bdca685cd4feb89627b3eca75ebbb"
+      textAlignment="1"
+      content="Leyenda">
+    <bounds
+        x="299"
+        y="880"
+        width="649"
+        height="97"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ea701fe4c9224440b92b8bb27a2f3860"
+      textAlignment="1"
+      fillColor="#aed7ff"
+      content="Sin tráfico en Rewrelic en ultimos 30 días"
+      textPosition="1">
+    <bounds
+        x="551"
+        y="910"
+        width="229"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-701f62d547c340409a25c21e7d140052"
+      textAlignment="1"
+      fillColor="#fbfd95"
+      content="Tráfico en Newrelic en últimos 30 días."
+      textPosition="1">
+    <bounds
+        x="323"
+        y="910"
+        width="217"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-a8fdb1d29fd54b08a19f55628a54c3e5"
+      textAlignment="1"
+      fillColor="#ff8080"
+      content="Información insuficiente"
+      textPosition="1">
+    <bounds
+        x="791"
+        y="910"
+        width="145"
+        height="37"/>
   </children>
 </archimate:ArchimateDiagramModel>

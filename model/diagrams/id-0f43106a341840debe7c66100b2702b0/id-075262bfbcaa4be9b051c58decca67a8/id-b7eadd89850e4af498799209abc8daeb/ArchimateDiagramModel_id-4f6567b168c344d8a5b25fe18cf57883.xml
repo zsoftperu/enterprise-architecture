@@ -235,52 +235,52 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-af5c1e491d374e4ea1a2cb784981c8ed"
+      id="id-5b521b39126c4d77b1c064fd0b87a882"
       textAlignment="1"
       content="Leyenda">
     <bounds
-        x="708"
-        y="684"
-        width="253"
-        height="181"/>
+        x="312"
+        y="672"
+        width="649"
+        height="97"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-7dd5f16f9a354ce3b20f3ae222a3465d"
+      id="id-0705e4626c2a4b1d8a906506f9cad4d9"
       textAlignment="1"
       fillColor="#aed7ff"
       content="Sin tráfico en Rewrelic en ultimos 30 días"
       textPosition="1">
     <bounds
-        x="720"
-        y="768"
+        x="564"
+        y="702"
         width="229"
         height="37"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-c4056397026f4f47b726dc60d8eb05e7"
+      id="id-9397b47a3d9442faa48b2af35b77e8eb"
       textAlignment="1"
       fillColor="#fbfd95"
       content="Tráfico en Newrelic en últimos 30 días."
       textPosition="1">
     <bounds
-        x="720"
-        y="720"
-        width="229"
+        x="336"
+        y="702"
+        width="217"
         height="37"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-7769bed9bb914d019c13a123981576c2"
+      id="id-56ebe5016b3d45e7b3d5c0dffed55d57"
       textAlignment="1"
       fillColor="#ff8080"
       content="Información insuficiente"
       textPosition="1">
     <bounds
-        x="720"
-        y="816"
-        width="229"
+        x="804"
+        y="702"
+        width="145"
         height="37"/>
   </children>
 </archimate:ArchimateDiagramModel>
