@@ -1,13 +1,12 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="pull JMS"
-    id="id-d27e196ef15a432c9a6d0352ebf9983e"
+    id="id-a31fdb18ca734e33a830f3176f6e0e0e"
     accessType="1">
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_id-b9f333a081fe4961a9e914c387a63369.xml#id-b9f333a081fe4961a9e914c387a63369"/>
+      href="ApplicationFunction_id-95accc21144341c8a168cee28c9963ea.xml#id-95accc21144341c8a168cee28c9963ea"/>
   <target
       xsi:type="archimate:DataObject"
-      href="DataObject_id-c16d8acd44ee43029d34152554ce43c1.xml#id-c16d8acd44ee43029d34152554ce43c1"/>
+      href="DataObject_id-ad76ce7ec0374dedba8364364d58a51b.xml#id-ad76ce7ec0374dedba8364364d58a51b"/>
 </archimate:AccessRelationship>

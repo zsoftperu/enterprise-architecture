@@ -1,7 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="publish"
+    name="publish JMS"
     id="id-6a0cfd7e66264085aa1b1f1b861215c1">
   <source
       xsi:type="archimate:ApplicationEvent"

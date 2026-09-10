@@ -1,0 +1,4 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[GET] /devicecatalog/v1/devices"
+    id="id-78dcd185fb694b9fb5abe848cf7639a7"/>
