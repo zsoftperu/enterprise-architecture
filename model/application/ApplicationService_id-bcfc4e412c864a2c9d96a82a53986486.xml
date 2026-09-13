@@ -1,4 +1,4 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="create GenericDocument"
-    id="id-c74a367f65ac4a3cab5ebdf771b1275b"/>
+    name="[GET] /publicKey"
+    id="id-bcfc4e412c864a2c9d96a82a53986486"/>

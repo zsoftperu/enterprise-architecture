@@ -1,4 +1,4 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="create GenericDocument"
-    id="id-c74a367f65ac4a3cab5ebdf771b1275b"/>
+    name="[POST] /token"
+    id="id-4ba513ab7faf4adeb5b133b5774d2f0f"/>

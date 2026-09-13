@@ -1,4 +1,4 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="createDocument"
-    id="id-c1295269cb5d4b73bad226f3761292b2"/>
+    name="retrieveAccessToken"
+    id="id-cb28d25c533a4c42b0781ec7337a3114"/>

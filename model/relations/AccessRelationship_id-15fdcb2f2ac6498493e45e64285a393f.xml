@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="get signed token"
+    id="id-15fdcb2f2ac6498493e45e64285a393f"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-e5224fac65bc469aa79bd55f1f89b7dd.xml#id-e5224fac65bc469aa79bd55f1f89b7dd"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-a251485f78d54d759c2c89b508fe62f0.xml#id-a251485f78d54d759c2c89b508fe62f0"/>
+</archimate:AccessRelationship>
