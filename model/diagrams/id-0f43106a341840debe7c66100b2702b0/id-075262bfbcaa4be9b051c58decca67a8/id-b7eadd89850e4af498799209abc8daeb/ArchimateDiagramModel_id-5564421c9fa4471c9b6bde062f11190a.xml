@@ -59,6 +59,24 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-da50d744dfeb4147a900be2b9966dfe0.xml#id-da50d744dfeb4147a900be2b9966dfe0"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-e25b98700acb453da809fdd0b5de9eaa"
+        source="id-5b326e526dc6425c8fe866d93f06ea96"
+        target="id-cab83234b62d42ce8b72ca335d33b6a2">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-bd83d66d750e4b75a68a5ee6e691dde3.xml#id-bd83d66d750e4b75a68a5ee6e691dde3"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-c1ee86e49ccf41cd941abcb7e8502b99"
+        source="id-5b326e526dc6425c8fe866d93f06ea96"
+        target="id-28db0f7edf854ba5b3257ecbbd7aeb54">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-18af5f2eaefc4dc4b3c3fde9240fde74.xml#id-18af5f2eaefc4dc4b3c3fde9240fde74"/>
+    </sourceConnections>
     <bounds
         x="672"
         y="242"
@@ -337,11 +355,11 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-cab83234b62d42ce8b72ca335d33b6a2"
-        targetConnections="id-ce21b8f1cf46408a819bef3bac2adbcd"
+        targetConnections="id-ce21b8f1cf46408a819bef3bac2adbcd id-e25b98700acb453da809fdd0b5de9eaa"
         fillColor="#ff8080"
         textPosition="1">
       <bounds
-          x="36"
+          x="59"
           y="387"
           width="120"
           height="55"/>
@@ -352,11 +370,11 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-28db0f7edf854ba5b3257ecbbd7aeb54"
-        targetConnections="id-ce9e0cba10a94c3bad2dd96687624acd"
+        targetConnections="id-ce9e0cba10a94c3bad2dd96687624acd id-c1ee86e49ccf41cd941abcb7e8502b99"
         fillColor="#ff8080"
         textPosition="1">
       <bounds
-          x="192"
+          x="193"
           y="387"
           width="120"
           height="55"/>
