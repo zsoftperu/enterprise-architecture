@@ -1,6 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="read"
     id="id-148b958368dd4a3c81e605a0783fe4a6"
     accessType="1">
   <source
