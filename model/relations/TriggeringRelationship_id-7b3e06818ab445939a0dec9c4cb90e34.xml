@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="remoto"
+    id="id-7b3e06818ab445939a0dec9c4cb90e34">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-9c9971fb3fb541f5a9296efa6056d5ba.xml#id-9c9971fb3fb541f5a9296efa6056d5ba"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-6e67349b096c44628bd7fb4c3411917c.xml#id-6e67349b096c44628bd7fb4c3411917c"/>
+</archimate:TriggeringRelationship>
