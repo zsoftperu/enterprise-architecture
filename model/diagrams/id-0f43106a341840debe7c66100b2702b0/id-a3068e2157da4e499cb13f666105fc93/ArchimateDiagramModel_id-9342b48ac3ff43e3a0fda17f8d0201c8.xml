@@ -420,7 +420,7 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-4415500a4d3448d6bc4a736215ea6a65"
-            targetConnections="id-2a7e64e963ce4e788690334b9fd808a4 id-fa00cd8fc8a044579f3ec032efd97276 id-5ed287402d20473a97ceea9ddfc72da8"
+            targetConnections="id-2a7e64e963ce4e788690334b9fd808a4 id-fa00cd8fc8a044579f3ec032efd97276"
             fillColor="#fcf8a5"
             textPosition="1">
           <sourceConnections
@@ -492,30 +492,6 @@
             id="id-f6c1224392d74317951c07f7a90a60ee"
             targetConnections="id-e9fa45ab03924a92b59c15868de6d554"
             textPosition="1">
-          <sourceConnections
-              xsi:type="archimate:DiagramModelArchimateConnection"
-              id="id-5ed287402d20473a97ceea9ddfc72da8"
-              source="id-f6c1224392d74317951c07f7a90a60ee"
-              target="id-4415500a4d3448d6bc4a736215ea6a65">
-            <bendpoints
-                startX="4"
-                startY="87"
-                endX="419"
-                endY="90"/>
-            <bendpoints
-                startX="-7"
-                startY="86"
-                endX="408"
-                endY="89"/>
-            <bendpoints
-                startX="-385"
-                startY="87"
-                endX="30"
-                endY="90"/>
-            <archimateRelationship
-                xsi:type="archimate:ServingRelationship"
-                href="ServingRelationship_id-5e8f8e3ab22b428c8617d777abaebc2c.xml#id-5e8f8e3ab22b428c8617d777abaebc2c"/>
-          </sourceConnections>
           <bounds
               x="23"
               y="35"
